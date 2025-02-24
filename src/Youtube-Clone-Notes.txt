@@ -1,0 +1,12 @@
+Yapılar kurulmaya başlıyor
+react-router-dom paketine ihtiyacımız oluyor.
+Componentlerin tasarımı ve dağıtımı harika
+youtube data api key => Google arattıktan sonra developer console seçeneğini seçip bir proje kurun. Daha yine devam edin. arama kısmına youtube data api v3 yazın.Seçin. Enable tıklayın. Create credentials tıkla.Public data tıkla snra next tıkla.API KEY hazır!Done tıklayıp bitirin.
+youtube data api yaz google'a. Sonra çıkan ilk siteye tıkla. Reference tıkla. Video kategorisindeki list seçeneğine tıkla.Orada list populer videolar seçeneğine tıkla. 
+ ve execute tıkladı.
+moment kütüphanesini yükledim çünkü zamanları düzenleyecek yerleşik işleve ihtiyacım vardı.
+list (by video ID) kısmında da erişebileceğim , bana lazım olan dataları ve https isteklerini kullandım.
+CommentThreads kategorisine , daha sonra list (by video ID) tıkladım. Http isteğini aldım.
+Video kısmının list kısmının list (most popular videos) kısmına  tıkladım.
+Daha sonra useState dağıttım. Gerekli ihtiyacı olan componentler'e....
+
