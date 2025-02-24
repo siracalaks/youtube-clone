@@ -2,7 +2,10 @@
 
 A modern YouTube clone built with React and Vite, featuring a responsive design and core YouTube functionalities.
 
-![Project Preview](preview.png)
+## 🚀 Live Demo
+
+[View Live Demo](https://sirac-youtube-clone.netlify.app/) - *Coming soon on Netlify*
+
 
 ## 🌟 Features
 
